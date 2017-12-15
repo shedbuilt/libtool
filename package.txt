@@ -1,0 +1,5 @@
+NAME=libtool
+VERSION=2.4.6
+REVISION=1
+SRC=http://ftp.gnu.org/gnu/libtool/libtool-2.4.6.tar.xz
+MD5SUM=1bfb9b923f2c1339b4d2ce1807064aa5
