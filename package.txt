@@ -1,7 +1,7 @@
 NAME=libtool
 VERSION=2.4.6
 REVISION=1
-SRC=http://ftp.gnu.org/gnu/libtool/libtool-2.4.6.tar.xz
+SRC=http://mirrors.kernel.org/gnu/libtool/libtool-2.4.6.tar.xz
 SRCMD5=1bfb9b923f2c1339b4d2ce1807064aa5
 OPTIONS=bootstrap|release
 DEFAULTS=release
